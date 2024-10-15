@@ -1,0 +1,42 @@
+Test Data File:C:/Users/sumit/Downloads/IIT J Sem Notes/Sem 3/Intro to Quantum tech/Project QRNG/CRNG/random_integers_binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	0.0                 	Non-Random
+05. Binary Matrix Rank Test                       	0.690404836048479   	Random
+06. Discrete Fourier Transform (Spectral) Test    	1.5373426920384065e-106	Non-Random
+07. Non-overlapping Template Matching Test        	4.241940754244814e-169	Non-Random
+08. Overlapping Template Matching Test            	1.8343552007796622e-141	Non-Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.9995040969377269  	Random
+11. Serial Test:
+													0.0                 	Non-Random
+													1.4474496668907e-311	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
+14. Cumulative Sums Test (Backward)               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	5.395251978342357   	0.3695686228024224  	Random
+				-3        	24.51999999999999   	0.00017243812359741325	Non-Random
+				-2        	9.333333333333332   	0.09648475947119867 	Random
+				-1        	1.0                 	0.9625657732472964  	Random
+				+1        	1.0                 	0.9625657732472964  	Random
+				+2        	0.6666666666666666  	0.984747879018509   	Random
+				+3        	0.4                 	0.9953295932358704  	Random
+				+4        	0.2857142857142857  	0.9979031595107858  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	3                   	0.9034789137192296  	Random
+				-8.0      	5                   	0.6985353583033387  	Random
+				-7.0      	11                  	0.2120034309228258  	Random
+				-6.0      	10                  	0.22779999398822903 	Random
+				-5.0      	7                   	0.40465676192728617 	Random
+				-4.0      	6                   	0.4496917979688909  	Random
+				-3.0      	3                   	0.8230632737581215  	Random
+				-2.0      	2                   	1.0                 	Random
+				-1.0      	1                   	0.6170750774519739  	Random
+				+1.0      	1                   	0.6170750774519739  	Random
